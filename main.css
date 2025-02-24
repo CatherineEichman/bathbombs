@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+    box-sizing: border-box ;
+}
+body{
+    background: url("bub.jpg") no-repeat fixed top right
+}
+#container{
+    width: 800px;
+    margin: 0 auto;
+}
+.left{
+    width: 380px;
+    height: 200px;
+    background-color: mediumturquoise;
+    border-radius: 25px;
+    float: left;
+    margin: 0px 15px 0px 10x;
+}
+.right{
+    width:380px;
+    height: 200px;
+    background-color: mediumturquoise;
+    border-radius: 25px;
+    float: left;
+}
+footer{
+    background-color: rgb(209, 135, 108);}
