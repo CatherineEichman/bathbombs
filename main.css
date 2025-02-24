@@ -8,20 +8,21 @@ body{
 }
 
 #container{
-    width: 600px;
+    width: 400px;
+    
     margin: 0 auto;
 }
 .left{
-    width: 200px;
-    height: 100px;
+    width: 160px;
+    height: 80px;
     background-color: mediumturquoise;
     border-radius: 25px;
     float: left;
     margin: 0px 10px 10px 0px;
 }
 .right{
-    width:200px;
-    height: 100px;
+    width:160px;
+    height: 80px;
     background-color: mediumturquoise;
     border-radius: 25px;
     float: left;
