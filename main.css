@@ -1,11 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 *{
-    box-sizing: border-box ;
+    box-sizing: border-box ; width: 2000px; height: 1500px;
 }
 body{
     background: url("bub.jpg") no-repeat fixed top right
 }
+
 #container{
     width: 800px;
     margin: 0 auto;
@@ -16,7 +17,7 @@ body{
     background-color: mediumturquoise;
     border-radius: 25px;
     float: left;
-    margin: 0px 15px 0px 10x;
+    margin: 0px 10px 10px 0px;
 }
 .right{
     width:380px;
@@ -24,6 +25,7 @@ body{
     background-color: mediumturquoise;
     border-radius: 25px;
     float: left;
+    margin: 0px 10px 10px 0px;
 }
 footer{
     background-color: rgb(209, 135, 108);}
