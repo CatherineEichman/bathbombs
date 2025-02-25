@@ -4,11 +4,11 @@
     box-sizing: border-box ;
 }
 body{
-    background: url("bubb.png") no-repeat fixed top right;
+    background: url("bub.jpg") no-repeat fixed top right;
 }
 
 #container{
-    width: 400px;
+    width: 600px;
     
     margin: 0 auto;
 }
