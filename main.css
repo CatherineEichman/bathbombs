@@ -4,7 +4,7 @@
     box-sizing: border-box ;
 }
 body{
-    background: url("bub.jpg") no-repeat fixed top center;
+    background: url("bubb.png") no-repeat fixed top right;
 }
 
 #container{
@@ -19,7 +19,10 @@ body{
     border-radius: 25px;
     float: left;
     margin: 0px 10px 10px 0px;
-    padding: 25px 25px 25px 25px;
+    padding: 20px 20px 20px 20px;
+    border: solid chocolate;
+    display: none;
+    
 }
 .right{
     width:190px;
@@ -28,11 +31,15 @@ body{
     border-radius: 25px;
     float: left;
     margin: 0px 10px 10px 0px;
+    padding: 20px 20px 20px 20px;
+    border: solid chocolate;
+    
 }
 footer{
     background-color: rgb(209, 135, 108);
     clear: both;}
 
-    header > h1{text-align: center; color: blueviolet;}
-    #container .right{background-color: blue;}
+    header > h1{text-align: center; color: #000
+        ;}
+    #container .right{background-color: bisque;}
         
